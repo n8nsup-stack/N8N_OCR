@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+paddlepaddle==2.6.2
+paddleocr==2.7.0
+opencv-python-headless
+fastapi
+uvicorn
+python-multipart
+numpy<2.0.0
+sentence-transformers
+torch
+rapidfuzz
+supabase
+Pillow
+imagehash
+pydantic
